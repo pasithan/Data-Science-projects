@@ -1,6 +1,6 @@
 # Welcome to my Data-Science-projects repository 👋🏻
 
-This repository is a portfolio for keeping Pasit's Data science projects. Projects in this repository consist of exercises from university course and self developed projects. 
+This repository is a portfolio for keeping Pasit's Data science projects. Projects in this repository consist of exercises from university courses and projects which I developed by myself. 
 
 There are two main directories have been kept.
 
@@ -16,7 +16,7 @@ There are two main directories have been kept.
 ## 2. Machine learning directory 
 **Machine learning** directory keeps projects that relevant in applying supervised and unsupervised machine learning to solve the problems. 
 - 💰 **bank_dt.ipynb**, apply decision tree model to predict whether clients subscribe the term deposit using bank.csv dataset. 
-- 🏨 **hotel_cancellation.ipynb**, apply classification algorithms to predict whether customers will cancel the hotel reservation.
+- 🏨 **hotel_cancellation.ipynb**, apply classification algorithms to predict whether customers will cancel the hotel reservation or not.
 - 🚗 **cars_clustering.ipynb**, apply Kmeans and Hierarchical clustering to cluster the cars from mtcars.csv dataset. 
 - 💸 **bank_knn.ipynb**, apply KNN to predict whether clients subscribe the term deposit using bank.csv dataset. 
 - 🚙 **cars_lnr.ipynb**, apply Linear regression to predict miles per gallon of cars using mtcars.csv dataset. 
