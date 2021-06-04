@@ -1,4 +1,4 @@
-# Welcome to Pasit's Data-Science-projects repository 👋🏻
+# Welcome to my Data-Science-projects repository 👋🏻
 
 This repository is a portfolio for keeping Pasit's Data science projects. Projects in this repository consist of exercises from university course and self developed projects. 
 
