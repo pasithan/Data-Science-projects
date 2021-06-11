@@ -21,5 +21,8 @@ There are two main directories have been kept.
 - 💸 **bank_knn.ipynb**, apply KNN to predict whether clients subscribe the term deposit using bank.csv dataset. 
 - 🚙 **cars_lnr.ipynb**, apply Linear regression to predict miles per gallon of cars using mtcars.csv dataset. 
 - 💵 **LogisticRegression.ipynb**, apply Logistic regression to predict whether clients subscribe the term deposit using bank.csv dataset. 
+- 🛒 <mark>**groceries-basket-analysis.ipynb**</mark>, apply Apriori, association analysis algorithm, to find items association.
+
+
 
 
