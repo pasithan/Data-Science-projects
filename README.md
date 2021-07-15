@@ -12,6 +12,7 @@ There are two main directories have been kept.
 - 5️⃣ **predict_MNIST.ipynb**, apply traditional Neural network to build MNIST dataset number classification AI. 
 - 🏦 **bank_nn.ipynb**, apply Deep neural network to predict whether clients subscribe the term deposit using bank.csv dataset. 
 - 👻 **VAE.ipynb**, apply Variational autoencoders to create latent matrix for input features.  
+- 😷 **face mask detection directory**, build AI for detecting mask covering on faces.
 
 ## 2. Machine learning directory 
 **Machine learning** directory keeps projects that relevant in applying supervised and unsupervised machine learning to solve problems. 
