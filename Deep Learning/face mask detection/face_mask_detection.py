@@ -23,42 +23,7 @@ def draw_box(frame, pred, conf, loc):
 
 
 # Load face mask detection model
-model = load_model('face_mask_detection_model.h5')
-
-# img1 = cv2.imread('test images/10.png')
-# img2 = cv2.imread('test images/1008.png')
-# img3 = cv2.imread('test images/1021.png')
-# img4 = cv2.imread('test images/1030.png')
-# img5 = cv2.imread('test images/1033.png')
-# img6 = cv2.imread('test images/mask1.png')
-# img7 = cv2.imread('test images/mask2.png')
-
-# img1 = cv2.cvtColor(img1, cv2.COLOR_BGR2RGB)
-
-# resized1 = cv2.resize(img1, (256, 256)).reshape(1,256,256,3)
-# resized2 = cv2.resize(img2, (256, 256)).reshape(1,256,256,3)
-# resized3 = cv2.resize(img3, (256, 256)).reshape(1,256,256,3)
-# resized4 = cv2.resize(img4, (256, 256)).reshape(1,256,256,3) 
-# resized5 = cv2.resize(img5, (256, 256)).reshape(1,256,256,3) 
-# resized6 = cv2.resize(img6, (256, 256)).reshape(1,256,256,3) 
-# resized7 = cv2.resize(img7, (256, 256)).reshape(1,256,256,3) 
-
-# pred1 = model.predict(resized1)
-# pred2 = model.predict(resized2)
-# pred3 = model.predict(resized3)
-# pred4 = model.predict(resized4)
-# pred5 = model.predict(resized5)
-# pred6 = model.predict(resized6)
-# pred7 = model.predict(resized7)
-
-# print(pred1)
-# print(pred2)
-# print(pred3)
-# print(pred4)
-# print(pred5)
-# print(pred6)
-# print(pred7)
-
+model = load_model('face_mask_detection_model_aug.h5')
 
 # Load the cascade
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
